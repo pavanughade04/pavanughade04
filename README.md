@@ -7,18 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Full+Stack+Development;Working+on+NandedSeva" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanughade04&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pavanughade04?style=for-the-badge&color=blue" alt="Followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **NandedSeva**
+- 🔭 Currently working on **Freelancing**
 - 💻 Learning **Full Stack Web Development**
-- 🌱 Improving my skills in HTML, CSS and JavaScript
 - 🎓 Completed BCA and pursuing MCA online
 - 🎯 Goal: Become a skilled software developer and start freelancing
 - 📫 Email: [pavanughade78@gmail.com](mailto:pavanughade78@gmail.com)
