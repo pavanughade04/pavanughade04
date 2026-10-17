@@ -4,7 +4,7 @@
 ### 💻 A passionate Full Stack Developer from India 🇮🇳
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Full+Stack+Development;Working+on+NandedSeva" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
