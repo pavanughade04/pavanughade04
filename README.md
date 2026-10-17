@@ -48,21 +48,7 @@
 
 ---
 
-## 📈 Contribution Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanughade04&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavanughade04&theme=tokyonight&no-frame=true&margin-w=6" width="100%" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🌟 Featured Project
 
@@ -76,16 +62,6 @@ A local services website project focused on helping people discover services in 
 - 🚧 Project under development
 
 [Explore my GitHub repositories](https://github.com/pavanughade04?tab=repositories)
-
----
-
-## 🎯 Current Goals
-
-- [ ] Strengthen JavaScript fundamentals
-- [ ] Learn React
-- [ ] Learn Node.js and Express.js
-- [ ] Build and publish full-stack projects
-- [ ] Improve Git and GitHub skills
 
 ---
 
