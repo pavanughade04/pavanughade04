@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working on **Freelancing**
 - 💻 Learning **Full Stack Web Development**
