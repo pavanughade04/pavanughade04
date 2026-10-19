@@ -14,7 +14,7 @@
 - 🔭 Currently working on **Freelancing**
 - 💻 Learning **Full Stack Web Development**
 - 🎓 Completed BCA and pursuing MCA online
-- 🎯 Goal: Become a skilled software developer and start freelancing
+- 🎯 Goal: Become a Successful Freelance Software Developer. 🚀
 - 📫 Email: [pavanughade78@gmail.com](mailto:pavanughade78@gmail.com)
 
 ## 🌐 Connect With Me
