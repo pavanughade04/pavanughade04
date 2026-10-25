@@ -1,4 +1,3 @@
- 
 # 👋 Hi, I'm Pavan Ughade
 
 ### 💻 A passionate Full Stack Developer from India
@@ -20,9 +19,18 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/pavanughade04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pavanughade78"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/p_v_n_04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+  <a href="https://github.com/pavanughade04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/pavanughade78">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/p_v_n_04">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:pavanughade78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -35,7 +43,7 @@
 
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pavanughade04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -47,20 +55,27 @@
 
 ---
 
-
-
 ## 🌟 Featured Project
 
 ### 🏙️ NandedSeva
 
-A local services website project focused on helping people discover services in Nanded.
+A local services website project focused on helping people discover services in Nanded, Maharashtra.
 
-- 🔎 Search and filter local service listings
-- 🧰 Electricians, plumbers, tiffin services, tutors, mobile repair and AC repair
-- 📱 User-friendly interface
-- 🚧 Project under development
+- 🔎 Search and filter local service listings.
+- 🧰 Electricians, plumbers, tiffin services, tutors, mobile repair and AC repair.
+- 📱 User-friendly interface.
+- 📍 Helping people discover local service providers.
+- 🚧 Project under development.
 
-[Explore my GitHub repositories](https://github.com/pavanughade04?tab=repositories)
+🔗 [Explore My GitHub Repositories](https://github.com/pavanughade04?tab=repositories)
+
+---
+
+## 🌐 My Portfolio
+
+Check out my personal portfolio website:
+
+🚀 [Visit My Portfolio](https://pavanughade.vercel.app/)
 
 ---
 
