@@ -61,17 +61,22 @@
 
 ---
 
-## 🌟 Featured Project
 
-### 🏙️ NandedSeva
+### 🏙️ Pune Seva
 
-A local services platform focused on helping people discover local service providers in Nanded, Maharashtra.
+A full-stack web application designed to help people discover and access local services in Pune.
 
 **Key Features:**
-- 🔎 Search and filter local service listings.
-- 🧰 Multiple service categories, including electricians, plumbers, tiffin services, tutors, mobile repair and AC repair.
-- 📱 User-friendly interface.
-- 📍 Helping people connect with local service providers.
+- 🔎 Search and explore local service providers.
+- 👤 User registration and login system.
+- 🔐 Secure authentication.
+- 🧰 Multiple service categories.
+- 📱 Responsive and user-friendly interface.
+- 🗄️ MySQL database integration.
+- ⚙️ Backend powered by Node.js and Express.js.
 - 🚧 Project under development.
 
-🔗 [Explore My GitHub Repositories](https://github.com/pavanughade04?tab=re
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+
+🔗 [Explore My GitHub Repositories](https://github.com/pavanughade04?tab=repositories)
