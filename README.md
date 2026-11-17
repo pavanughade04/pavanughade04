@@ -3,7 +3,7 @@
 ### 💻 A passionate Full Stack Developer from India
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Building+Web+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +15,8 @@
 - 🎓 Completed BCA and pursuing MCA online
 - 🎯 Goal: Become a Successful Freelance Software Developer. 🚀
 - 📫 Email: [pavanughade78@gmail.com](mailto:pavanughade78@gmail.com)
+
+---
 
 ## 🌐 Connect With Me
 
@@ -46,11 +48,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pavanughade04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pavanughade04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavanughade04&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanughade04&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -59,30 +65,13 @@
 
 ### 🏙️ NandedSeva
 
-A local services website project focused on helping people discover services in Nanded, Maharashtra.
+A local services platform focused on helping people discover local service providers in Nanded, Maharashtra.
 
+**Key Features:**
 - 🔎 Search and filter local service listings.
-- 🧰 Electricians, plumbers, tiffin services, tutors, mobile repair and AC repair.
+- 🧰 Multiple service categories, including electricians, plumbers, tiffin services, tutors, mobile repair and AC repair.
 - 📱 User-friendly interface.
-- 📍 Helping people discover local service providers.
+- 📍 Helping people connect with local service providers.
 - 🚧 Project under development.
 
-🔗 [Explore My GitHub Repositories](https://github.com/pavanughade04?tab=repositories)
-
----
-
-## 🌐 My Portfolio
-
-Check out my personal portfolio website:
-
-🚀 [Visit My Portfolio](https://pavanughade.vercel.app/)
-
----
-
-<p align="center">
-  💙 <b>Learning every day. Building step by step. Growing with every project.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+🔗 [Explore My GitHub Repositories](https://github.com/pavanughade04?tab=re
